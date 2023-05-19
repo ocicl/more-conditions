@@ -1,0 +1,9 @@
+* more-conditions
+
+Some general condition classes and signalling helpers.
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/scymtym/more-conditions.git |
+| commit  | b4859fb                                            |
+| systems | more-conditions                                    |
+|---------+----------------------------------------------------|
