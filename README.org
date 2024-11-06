@@ -4,6 +4,6 @@ Some general condition classes and signalling helpers
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/scymtym/more-conditions.git |
-| commit  | b4859fb                                            |
+| commit  | 9e20bba                                            |
 | systems | more-conditions                                    |
 |---------+----------------------------------------------------|
